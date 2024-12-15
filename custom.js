@@ -21,35 +21,35 @@ module.exports = async ({ api }) => {
     greetings: [
       {
         cronTime: '0 5 * * *',
-        messages: [`Good morning! Have a great day ahead!`],
+        messages: [`Good morning! Mga Kupal!`],
       },
       {
         cronTime: '0 8 * * *',
-        messages: [`Hello Everyone Time Check 8:00 AM :>`],
+        messages: [`Hello Everyone Time Check 8:00 AM Asan na yung feeling ranter?`],
       },
       {
         cronTime: '0 10 * * *',
-        messages: [`Hello everyone! How's your day going?`],
+        messages: [`Hello everyone! Pukinang inang nyo!!`],
       },
       {
         cronTime: '0 12 * * *',
-        messages: [`Lunchtime reminder: Take a break and eat well!`],
+        messages: [`12 na kukupal kupal parin kayo? mga hinayupak`],
       },
       {
         cronTime: '0 14 * * *',
-        messages: [`Reminder: Don't forget your tasks for today!`],
+        messages: [`This Bot Is ksjeneksjsdjejedjen 😀`],
       },
       {
         cronTime: '0 18 * * *',
-        messages: [`Good evening! Relax and enjoy your evening.`],
+        messages: [`Good evening! mga putangina`],
       },
       {
         cronTime: '0 20 * * *',
-        messages: [`Time to wind down. Have a peaceful evening.`],
+        messages: [`puyat lang kaya payan hanggang mawalan kana ng tamod sa katawan`],
       },
       {
         cronTime: '0 22 * * *',
-        messages: [`Good night! Have a restful sleep.`],
+        messages: [`Sige puyat pa tanginamo ka`],
       },
       {
         cronTime: '0 7 * * *',
